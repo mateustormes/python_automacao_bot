@@ -1,0 +1,8 @@
+Inicio
+Login: 
+admin
+Senha: 
+admin
+AutoLogin: 
+True
+Fim
